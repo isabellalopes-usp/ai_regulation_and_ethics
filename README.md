@@ -1,6 +1,6 @@
 ## Legal Regulation of AI
 ## Description
-This project aims to collect, pre-process, and structure second-instance decisions from the Court of Justice of the State of São Paulo (TJSP), using web scraping and Natural Language Processing (NLP) techniques.
+This project aims to collect, pre-process, post-process, and structure second-instance decisions from the Court of Justice of the State of São Paulo (TJSP), using web scraping techniques.
 
 ## Project Structure
 ### 1. Data Collection
